@@ -41,7 +41,7 @@ int main() {
     }
     
     printf("---------------------------------\n");
-    printf("Thank you for using the BMI Calculator!\n");
+    printf("Thank you for using the BMI Calculator!!\n");
     
     return 0;
 }
