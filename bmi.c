@@ -3,7 +3,7 @@
 int main() {
     float height, weight, bmi;
     
-    printf("Welcome to the BMI Calculator!\n");
+    printf("Welcome to the BMI Calculator!!\n");
     printf("------------------------------\n");
 
     printf("Enter your height in meters: ");
